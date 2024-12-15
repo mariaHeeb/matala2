@@ -1,5 +1,10 @@
 # Quiz Application
 
+## Team Members
+
+- **Yazan Dawud**
+- **Maria El Heeb**
+
 ## Overview
 
 This project is a collaborative effort by **Yazan Dawud** and **Maria El Heeb**. The primary objective of the project is to create an engaging and interactive quiz application using Android Studio. The application is designed to test users' knowledge on programming topics and provide an enjoyable learning experience.
