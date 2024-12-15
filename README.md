@@ -34,4 +34,4 @@ This project is a collaborative effort by **Yazan Dawud** and **Maria El Heeb**.
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/yourusername/quiz-application.git
+   git clone https://github.com/mariaHeeb/matala2.git
